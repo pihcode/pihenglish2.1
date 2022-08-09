@@ -359,7 +359,7 @@ article .container-about {
 .container-about .image {
   width: 100%;
   height: 500px;
-  background-image: url("/submission/assets/img/About.jpg");
+  background-image: url("img/About.jpg");
   background-size: cover;
   margin-top: 36px;
 }
@@ -456,7 +456,7 @@ section .newslater {
 .container-biodata .image {
   width: 170px;
   height: 170px;
-  background-image: url("/submission/assets/img/profile.png");
+  background-image: url("img/profile.png");
   background-size: cover;
   background-position-y: center;
   border: 2px solid rgb(255, 174, 0);
