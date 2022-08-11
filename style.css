@@ -145,7 +145,8 @@ span {
   padding: 8px 36px 8px 36px;
   border-radius: 10px;
   border: none;
-  background-color: rgb(68, 0, 255);
+  /* background-color: rgb(68, 0, 255); */
+  background-color: rgb(94, 255, 0);
   color: rgb(240, 240, 240);
   font-size: 16px;
   font-weight: 500;
